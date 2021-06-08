@@ -1,0 +1,6 @@
+baseURL = "https://insua.github.io/"
+languageCode = "cn-zh"
+title = "代码如歌"
+theme = "hyde"
+[params]
+    description= "insua"
